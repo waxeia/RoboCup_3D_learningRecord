@@ -10,7 +10,7 @@ about RoboCup3D competition
 
 /*
 * override /ˌoʊvərˈraɪd/ v.操控
-* beam /biːm/ n.（横）梁；here: 球员的上场位置
+* beam /biːm/ n.（横）梁；定向发出（无线电信号）
 * binder /ˈbaɪndər/ n.活页夹
 * factorization /ˌfæktərəˈzeɪʃən/ n.因式分解
 * factorize /ˈfæktəraɪz/ vt.因式分解

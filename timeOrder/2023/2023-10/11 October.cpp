@@ -8,7 +8,7 @@ start.sh
 * 对strategy.cc进行的修改可以在运行./start.sh后展示出来
 * 
 start_fat_proxy.sh
-* 运行都不成功，不太懂它的作用，-p参数后面的代理端口？？？
+* ./start_fat_proxy.sh -p 3100, 运行这个指令后，与运行 start.sh 脚本一个效果
 start_gazebo.sh
 * 场内唯一机器人不动，（after open the play on mode）
 * can't kill it
@@ -18,6 +18,8 @@ start_penalty_kicker.sh
 * 场内唯一机器人不动
 start_simple_soccer.sh
 * 以较乱的形式上场的机器人能够正常进行比赛，需要理解理解控制他们的源码在哪里？
+kill.sh
+* 清楚场上的所有球员
 */
 
 
@@ -30,7 +32,10 @@ start_simple_soccer.sh
 /*
 * proxy /ˈprɑːksi/ n.代理权；代理人
 * fat proxy 厚代理：一种功能强大的代理服务器，与thin proxy（薄代理）相对
+* specify v.明确指出；具体说明
 */
+
+
 
 
 

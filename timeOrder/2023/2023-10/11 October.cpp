@@ -33,6 +33,20 @@ kill.sh
 * proxy /ˈprɑːksi/ n.代理权；代理人
 * fat proxy 厚代理：一种功能强大的代理服务器，与thin proxy（薄代理）相对
 * specify v.明确指出；具体说明
+* omni /ˈɑːmnɪ/ n.全方位
+*/
+
+
+/* 个人感悟
+* 做一件事情前不得提前规划一下？在看项目的源代码之前咱了解了解如何高效的看一个完整的项目源码，好不好？？👻
+*/
+
+/*UT项目结构分析
+scripts文件夹下的两个脚本文件与正式比赛前的配置和清理工作有关
+* copy_libs.sh
+* copy_files_needed_to_run.sh
+* README.MD
+
 */
 
 

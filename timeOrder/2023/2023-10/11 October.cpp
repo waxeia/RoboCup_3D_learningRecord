@@ -34,6 +34,9 @@ kill.sh
 * fat proxy 厚代理：一种功能强大的代理服务器，与thin proxy（薄代理）相对
 * specify v.明确指出；具体说明
 * omni /ˈɑːmnɪ/ n.全方位
+* pragma /ˈpræɡmə/ n.编译指示
+* bracket /ˈbrækɪt/ n/括号
+* leak v.泄露
 */
 
 
